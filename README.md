@@ -66,7 +66,7 @@ Atendimento ao cliente, controle de assistências via plataforma web e comunica�
 ## 🌐 Contato
 
 📧 **E-mail:** [pelicarivini@gmail.com](mailto:pelicarivini@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/viniciuscarmello](www.linkedin.com/in/vinicius-carmello-peliçari-3159ba334)
+🔗 **LinkedIn:** www.linkedin.com/in/vinicius-carmello-peliçari-3159ba334
 
 ---
 
