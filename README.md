@@ -19,7 +19,7 @@ Tenho interesse em aprender de forma estruturada, compartilhar conhecimento e ev
 ## 🧠 Tecnologias e Habilidades
 
 - **Linguagens Principais:** Java, C  
-- **Outras Linguagens:** C#, Kotlin, HTML, CSS, JavaScript  
+- **Outras Linguagens:** C#, Kotlin, HTML, CSS, JavaScript e PHP 
 - **Banco de Dados:** MySQL  
 - **Ferramentas:** Git, GitHub, XAMPP, BrModelo, Excel, Android Studio, VS Code, NetBeans  
 - **Sistemas Operacionais:** Windows e Linux  
