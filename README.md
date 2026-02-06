@@ -58,8 +58,9 @@ Atendimento ao cliente, controle de assistências via plataforma web e comunica�
 
 ## 📊 Estatísticas GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinguardcp&layout=compact&theme=github_dark&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinguardcp&show_icons=true&theme=github_dark&hide_border=true)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinguardcp&layout=compact&theme=github_dark&hide_border=true) -->
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinguardcp&show_icons=true&theme=github_dark&hide_border=true) -->
+![GitHub Streak](https://streak-stats.demolab.com?user=vinguardcp)
 
 ---
 
