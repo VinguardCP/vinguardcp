@@ -2,7 +2,7 @@
 
 Sou **Vinicius Carmello Peliçari**, estudante de **Análise e Desenvolvimento de Sistemas** na **FATEC Americana (SP)**, com foco em **desenvolvimento de software**, **engenharia de software**, **backend** e **banco de dados**.
 
-Atualmente, concentro meus estudos em **Java** e **C**, explorando também **C#**, **Kotlin** e tecnologias **Web**, sempre buscando aplicar os conceitos por meio de exercícios práticos, desafios e pequenos projetos documentados neste GitHub.
+Atualmente, concentro meus estudos em **PHP** e **JS**, explorando também **C#**, **Kotlin** e tecnologias **Web**, sempre buscando aplicar os conceitos por meio de exercícios práticos, desafios e pequenos projetos documentados neste GitHub.
 
 Tenho interesse em aprender de forma estruturada, compartilhar conhecimento e evoluir continuamente como desenvolvedor, valorizando organização, clareza de código e boas práticas.
 
@@ -18,8 +18,8 @@ Tenho interesse em aprender de forma estruturada, compartilhar conhecimento e ev
 
 ## 🧠 Tecnologias e Habilidades
 
-- **Linguagens Principais:** Java, C  
-- **Outras Linguagens:** C#, Kotlin, HTML, CSS, JavaScript e PHP 
+- **Linguagens Principais:** PHP, JavaScript 
+- **Outras Linguagens:** C#, Kotlin, HTML, CSS, Java e C 
 - **Banco de Dados:** MySQL  
 - **Ferramentas:** Git, GitHub, XAMPP, BrModelo, Excel, Android Studio, VS Code, NetBeans  
 - **Sistemas Operacionais:** Windows e Linux  
@@ -53,6 +53,9 @@ sempre com os **de hookup devidos aos cursos e autores** quando aplicável.
 
 **Freelancer — Casa 99 (Serviços residenciais)**  
 Atendimento ao cliente, controle de assistências via plataforma web e comunicação com seguradoras.
+
+**Estagiário - Outserv**
+Estágio em arquitetura de softwares.
 
 ---
 
