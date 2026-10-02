@@ -51,10 +51,10 @@ sempre com os **de hookup devidos aos cursos e autores** quando aplicável.
 
 ## 💼 Experiência
 
-Outubro 2026 - Atual **Arquiteto de Software**
+Outubro 2026 - Atual - **Arquiteto de Software - Outserv**
 Realização de Propostas, Realização de Protótipos, Levantamento de Requisitos
 
-Abril 2026 - Setembro 2026 **Estagiário - Outserv**
+Abril 2026 - Setembro 2026 - **Estagiário - Outserv**
 Estágio em arquitetura de softwares.
 
 2023 - 2025 **Freelancer — Casa 99 (Serviços residenciais)**  
