@@ -51,11 +51,14 @@ sempre com os **de hookup devidos aos cursos e autores** quando aplicável.
 
 ## 💼 Experiência
 
-**Freelancer — Casa 99 (Serviços residenciais)**  
-Atendimento ao cliente, controle de assistências via plataforma web e comunicação com seguradoras.
+Outubro 2026 - Atual **Arquiteto de Software**
+Realização de Propostas, Realização de Protótipos, Levantamento de Requisitos
 
-**Estagiário - Outserv**
+Abril 2026 - Setembro 2026 **Estagiário - Outserv**
 Estágio em arquitetura de softwares.
+
+2023 - 2025 **Freelancer — Casa 99 (Serviços residenciais)**  
+Atendimento ao cliente, controle de assistências via plataforma web e comunicação com seguradoras.
 
 ---
 
