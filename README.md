@@ -1,6 +1,6 @@
 # 👋 Sobre mim
 
-Sou **Vinicius Carmello Peliçari**, estudante de **Análise e Desenvolvimento de Sistemas** na **FATEC Americana (SP)**, com foco em **desenvolvimento de software**, **engenharia de software**, **backend** e **banco de dados**.
+Sou **Vinicius Carmello Peliçari**, **Arquiteto de Software** e estudante de **Análise e Desenvolvimento de Sistemas** na **FATEC Americana (SP)**, com foco em **desenvolvimento de software**, **engenharia de software**, **backend** e **banco de dados**.
 
 Atualmente, concentro meus estudos em **PHP** e **JS**, explorando também **C#**, **Kotlin** e tecnologias **Web**, sempre buscando aplicar os conceitos por meio de exercícios práticos, desafios e pequenos projetos documentados neste GitHub.
 
